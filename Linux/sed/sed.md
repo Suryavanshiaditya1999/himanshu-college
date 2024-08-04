@@ -56,18 +56,25 @@ sed -i 's/course/class/g' filename
 ```
 sed -i '/networking/d' filename
 ```
+![image](https://github.com/user-attachments/assets/60d88d91-fe4d-486b-98b9-11c78807a44f)
+
 
 **Delete line from range x to y**
 
 ```
 sed -i '2,3d' filename
 ```
+![image](https://github.com/user-attachments/assets/0498c189-6118-42b4-b93c-199274649cb1)
+
 
 **Print only the replaced line**
 
 ```
 sed -n 's/Linux/unix/p' filename
 ```
+
+![image](https://github.com/user-attachments/assets/84616d67-6104-41cc-b8ca-e09fadffbb07)
+
 
 **Print only first line**
 
