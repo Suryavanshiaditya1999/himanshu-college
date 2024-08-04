@@ -19,6 +19,9 @@ Step 2 . Use Sed command to replace 2nd word
 ```
 sed 's/world/universe/2' file.txt
 ```
+![image](https://github.com/user-attachments/assets/3b89c8fa-b2ab-420f-8167-283431e10aff)
+
+
 
 ### Q. Repalce the world globally
 
