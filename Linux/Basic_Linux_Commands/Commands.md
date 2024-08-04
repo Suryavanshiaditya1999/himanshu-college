@@ -141,7 +141,7 @@ ps
 top
 ```
 
-**18 See disk space **
+**18 See disk space**
 
 ```
 df -h
