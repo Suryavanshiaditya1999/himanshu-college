@@ -37,7 +37,7 @@ This course will cover Linux fundamentals
 like file management, process management, and networking.
 ```
 
-**Change Linux with Unix of 3rd line** 
+**Change Linux with Unix on 3rd line** 
 
 ```
 sed '3 s/Linux/Unix/' filename
