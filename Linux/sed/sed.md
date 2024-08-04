@@ -7,7 +7,7 @@ echo "Hello world" >> file.txt
 sed 's/world/universe/' file.txt
 ```
 
-### Q. Replace the 2nd word in a string
+#### Q. Replace the 2nd word in a string
 
 
 Step 1 write some text in file , use one word that is atleast repeated twice 
