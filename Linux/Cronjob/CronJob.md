@@ -1,8 +1,8 @@
 # CRONJOB
 
-## QUESTIONS AND ANSWERS
+#### QUESTIONS AND ANSWERS
 
-### How to create new Cronjob
+##### How to create new Cronjob
 
 **Step 1:** Type crontab -e to edit the crontab file.
 
@@ -16,7 +16,7 @@ crontab -e
 * * * * * command_to_execute
 ```
 
-### To view existing Cronjob
+##### To view existing Cronjob
 
 ```
 crontab -l
