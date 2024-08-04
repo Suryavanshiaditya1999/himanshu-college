@@ -75,4 +75,77 @@ forcefully remove dir
 rmdir directory_name
 ```
 
+**7 cp: Copies files or directories.**
+
+```
+cp source destination
+```
+
+**8 mv: Moves or renames files or directories.**
+
+```
+mv source destination
+```
+
+**9 cat: Concatenates and displays the content of files.**
+
+```
+cat filename
+```
+
+**10 echo: Displays a line of text or writes to a file.**
+
+```
+echo "Hello, world!"
+```
+
+**11 nano: Opens the Nano text editor.**
+
+```
+nano filename
+```
+
+**12 chmod: Changes file permissions.**
+
+```
+chmod 755 filename
+```
+
+**13  Changes file owner and group.**
+
+```
+chown user:group filename
+```
+
+**14 find: Searches for files in a directory hierarchy.**
+
+```
+find /path -name filename
+```
+
+**15 ps: Displays currently running processes.**
+
+```
+grep "pattern" filename
+```
+
+**16 ps: Displays currently running processes.**
+
+```
+ps
+```
+
+**17 top: Displays real-time system statistics**
+
+```
+top
+```
+
+**18 See disk space **
+
+```
+df -h
+```
+
+
 
