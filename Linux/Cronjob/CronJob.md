@@ -52,9 +52,10 @@ Q. displays the free disk space on your system and saves it to disk_usage.txt ev
 * 1 * * * df -h >> /home/<home_dir>/disk_usage.txt
 ```
 
-Q . 1 . Create a directory called 'my_dir' in your home directory.
-    2. Inside my_dir, create a sub directory 'dir'
-    3. Set up a cron job to print "Hello world" to hello.txt every minute.
+Q . 
+1 . Create a directory called 'my_dir' in your home directory.
+2. Inside my_dir, create a sub directory 'dir'
+3. Set up a cron job to print "Hello world" to hello.txt every minute.
 
 
 ```
