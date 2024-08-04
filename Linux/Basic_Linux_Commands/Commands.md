@@ -1,6 +1,6 @@
  # 20 basic Linux commands 
 
-**1. ls: Lists the contents of a directory.**
+**1  ls: Lists the contents of a directory.**
 
 ```
 ls
@@ -18,7 +18,7 @@ to list files in long format
 ls -l
 ```
 
-**2 . Changes the current directory.
+**2  Changes the current directory.**
 
 ```
 cd /path/to/directory
@@ -74,4 +74,5 @@ forcefully remove dir
 ```
 rmdir directory_name
 ```
+
 
