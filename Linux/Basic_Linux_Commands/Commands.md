@@ -1,4 +1,4 @@
- # 20 basic Linux commands 
+ # Basic Linux commands 
 
 **1  ls: Lists the contents of a directory.**
 
